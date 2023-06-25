@@ -1,0 +1,14 @@
+{
+  "name": "categoriesproject",
+  "version": "1.0.0",
+  "description": "this is exporting categories project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
