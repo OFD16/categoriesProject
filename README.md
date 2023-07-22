@@ -1,2 +1,2 @@
 # categoriesProject
- This is a basic categorie exracter for Tarifist data
+ This is a basic categorie exracter inside of Tarifist data.
